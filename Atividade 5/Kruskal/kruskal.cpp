@@ -123,6 +123,7 @@ int main()
                 }
             }
 
+
         kruskal();
         print();
 }
